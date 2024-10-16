@@ -49,3 +49,102 @@ p {
         margin-bottom: 20px;
     }
 >>>>>>> section-1
+#background-container {
+    background-image: url("./images/Intro.webp");
+    background-position: center center;
+    background-size: cover;
+    height: 300px; /* Adjust the height as needed */
+  }
+
+body{
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    color: white;
+    font-weight: bold;
+    padding: 220px;
+    padding-left: 50px;
+}
+
+h2{
+  background-color: #f0f0f0; /* Light gray background */
+  color: #333333; /* Dark gray text */
+  font-size: 24px;
+  font-family: Arial, sans-serif;
+  font-weight: bold;
+  text-align: center;
+  padding: 10px 20px;
+  border: 1px solid #cccccc;
+  border-radius: 5px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+p {
+    color: #333333; /* Dark gray text */
+    font-size: 16px;
+    font-family: Arial, sans-serif;
+    line-height: 1.5;
+    text-align: justify;
+    text-indent: 20px;
+    margin: 1em 0; /* 1em top/bottom, 0 left/right margin */
+    padding: 10px; 
+}
+
+<<<<<<< HEAD
+
+<<<<<<< HEAD
+.container {
+    max-width: 800px; /* Set the maximum width of the content */
+    margin: 0 auto;   /* Center the container */
+    padding: 20px;    /* Add some padding */
+    background-color: #f9f9f9; /* Optional: light background color */
+    border-radius: 8px; /* Rounded corners for the container */
+}
+
+/* Text styling */
+h2 {
+    text-align: center;
+    font-size: 24px;
+}
+
+h3 {
+    font-size: 20px;
+    margin-top: 20px;
+}
+
+p {
+    line-height: 1.6;
+    margin-bottom: 20px;
+}
+=======
+    .container {
+        max-width: 800px; /* Set the maximum width of the content */
+        margin: 0 auto;   /* Center the container */
+        padding: 20px;    /* Add some padding */
+        background-color: #f9f9f9; /* Optional: light background color */
+        border-radius: 8px; /* Rounded corners for the container */
+    }
+    
+    /* Text styling */
+    h2 {
+        text-align: center;
+        font-size: 24px;
+    }
+    
+    h3 {
+        font-size: 20px;
+        margin-top: 20px;
+    }
+    
+    p {
+        line-height: 1.6;
+        margin-bottom: 20px;
+    }
+>>>>>>> section-1
+=======
+#cv {
+  font-weight: bold;
+}
+>>>>>>> 30c19b7 (new intro changes)
