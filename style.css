@@ -24,7 +24,7 @@
     }
 
 #background-container {
-    background-image: url("./images/Intro.webp");
+    background-image: url("./Images/Intro.webp");
     background-position: center center;
     background-size: cover;
     height: 300px; /* Adjust the height as needed */
