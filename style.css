@@ -1,5 +1,6 @@
 
 
+<<<<<<< HEAD
 .container {
     max-width: 800px; /* Set the maximum width of the content */
     margin: 0 auto;   /* Center the container */
@@ -23,3 +24,28 @@ p {
     line-height: 1.6;
     margin-bottom: 20px;
 }
+=======
+    .container {
+        max-width: 800px; /* Set the maximum width of the content */
+        margin: 0 auto;   /* Center the container */
+        padding: 20px;    /* Add some padding */
+        background-color: #f9f9f9; /* Optional: light background color */
+        border-radius: 8px; /* Rounded corners for the container */
+    }
+    
+    /* Text styling */
+    h2 {
+        text-align: center;
+        font-size: 24px;
+    }
+    
+    h3 {
+        font-size: 20px;
+        margin-top: 20px;
+    }
+    
+    p {
+        line-height: 1.6;
+        margin-bottom: 20px;
+    }
+>>>>>>> section-1
